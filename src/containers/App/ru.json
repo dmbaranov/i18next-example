@@ -1,0 +1,11 @@
+{
+  "ru": {
+    "translation": {
+      "test_message": "Это тестовое сообщение",
+
+      "amount_of_bananas_0": "{{count}} банан",
+      "amount_of_bananas_1": "{{count}} банана",
+      "amount_of_bananas_2": "{{count}} бананов"
+    }
+  }
+}

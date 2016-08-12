@@ -1,0 +1,10 @@
+{
+  "en": {
+    "translation": {
+      "test_message": "This is a test message",
+
+      "amount_of_bananas": "{{count}} banana",
+      "amount_of_bananas_plural": "{{count}} bananas" 
+    }
+  }
+}
